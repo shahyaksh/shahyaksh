@@ -1,4 +1,4 @@
-![logo](https://github.com/shahyaksh/shahyaksh/blob/main/Screenshot%202023-06-02%20215729.png)
+![logo](https://github.com/shahyaksh/shahyaksh/blob/main/Screenshot%202.png)
 <h1 align="center">Hi 👋, I'm Yaksh Shah</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 

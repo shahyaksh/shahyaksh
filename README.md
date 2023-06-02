@@ -1,3 +1,4 @@
+[logo](https://github.com/shahyaksh/shahyaksh/blob/main/1_4ENTv5SsXJ_vuUgjKbs0dg.webp)
 <h1 align="center">Hi 👋, I'm Yaksh Shah</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 

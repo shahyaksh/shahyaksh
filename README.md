@@ -1,6 +1,6 @@
 ![logo](https://github.com/shahyaksh/shahyaksh/blob/main/Screenshot%202.png)
 <h1 align="center">Hi 👋, I'm Yaksh Shah</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahyaksh&label=Profile%20views&color=0e75b6&style=flat" alt="shahyaksh" /> </p>
 

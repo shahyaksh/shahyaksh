@@ -13,7 +13,6 @@ I'm a Data Science professional with a Master's in Data Science from Northeaster
 
 - 🎓 Currently pursuing MS in Data Science at Northeastern University
 - 🔭 Experience in computer vision, natural language processing, and recommendation systems
-- 🚀 Published researcher in the field of automated nutrition analysis
 - 💡 Passionate about building intelligent applications that solve real-world problems
 - 💬 Ask me about AI, Machine Learning, Data Analysis, or my projects
 

@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Data Science professional with a Master's in Data Science from Northeastern University (expected 2026) and a B.Tech in Information Technology with Honors in Data Science. I have experience working with organizations like the Indian Space Research Organization (ISRO) developing deep learning solutions for satellite imagery and at Cilans Systems creating fabric fault detection systems.
+I'm a passionate Data Scientist I specialize in developing machine learning solutions with a focus on computer vision and natural language processing applications.
 
 - 🎓 Currently pursuing MS in Data Science at Northeastern University
 - 🔭 Experience in computer vision, natural language processing, and recommendation systems

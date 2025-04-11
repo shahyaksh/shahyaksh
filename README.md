@@ -1,9 +1,5 @@
 # Hi there, I'm Yaksh Shah 👋
 
-<div align="center">
-  <img src="https://github.com/shahyaksh/shahyaksh/blob/main/Screenshot%202.png" alt="banner" width="100%">
-</div>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/yakshshah1708?logo=twitter&style=for-the-badge)](https://twitter.com/yakshshah1708)
 ![Profile Views](https://komarev.com/ghpvc/?username=shahyaksh&label=Profile%20views&color=0e75b6&style=flat)
 

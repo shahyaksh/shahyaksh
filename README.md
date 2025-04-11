@@ -21,6 +21,7 @@ I'm a passionate Data Scientist I specialize in developing machine learning solu
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -28,35 +29,41 @@ I'm a passionate Data Scientist I specialize in developing machine learning solu
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-3178C6?style=for-the-badge&logo=chain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white)
 
 ### Web Development & APIs
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Web Scraping
-![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Scrapy](https://img.shields.io/badge/Scrapy-11A577?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Cloud Platforms
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pinecone](https://img.shields.io/badge/Pinecone-5C5C5C?style=for-the-badge)
 
 ### Core Skills
-![Data Collection](https://img.shields.io/badge/Data_Collection-5C5C5C?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-5C5C5C?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-5C5C5C?style=for-the-badge)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-5C5C5C?style=for-the-badge)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-5C5C5C?style=for-the-badge)
+![Statistical Modeling](https://img.shields.io/badge/Statistical_Modeling-5C5C5C?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-5C5C5C?style=for-the-badge)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-5C5C5C?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-5C5C5C?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/NLP-5C5C5C?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C5C5C?style=for-the-badge)
+![Retrieval-Augmented Generation](https://img.shields.io/badge/RAG-5C5C5C?style=for-the-badge)
 
 ## 📊 GitHub Stats
 
